@@ -12,7 +12,7 @@ Este projeto é um serviço de envio de e-mails desenvolvido com Java Spring e A
 
 ## Tecnologias
 
-- **Java 21**: Versão do Java utilizada.
+- **Java 21**
 - **Spring Boot**: Framework utilizado para a construção do serviço.
 - **AWS SDK for Java (SES)**: Biblioteca utilizada para integração com o Amazon SES.
 
